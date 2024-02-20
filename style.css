@@ -1,0 +1,128 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family:"Poppins", sans-serif;
+}
+.container{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: auto;
+    padding-top: 50px;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        margin-left: 20px;
+        letter-spacing: 0em;
+        text-align: right;
+
+}
+h2{
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: 0em;
+    text-align: left;
+}
+h1{
+    font-family: Poppins;
+    font-size: 55px;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: 0em;
+    text-align: left;
+}
+h3{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #575455;
+}
+h4{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 0;
+}
+h5{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #f75c4e;
+}
+h6{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: 0em;
+    text-align: center;
+}
+h7{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+margin: 0;
+letter-spacing: 0em;
+text-align: left;
+color: #575455;
+}
+button{
+    border-radius: 20px;
+    background-color: #13A9E2;
+    color: white;
+    border: none;
+    padding: 10px;
+    size: 20px;
+}
+
+#mala{
+    background-color: #13A9E2;
+    color: white;
+}
+
+#plane{
+    background-color: #F34C4C;
+    color: white;
+}
+#globe{
+    background-color: #e27713;
+    color: white;
+}
+i{ 
+
+    padding: 10px;
+    border-radius: 20px;
+}
+.serviços{
+    text-align: center;
+}
+img{
+    margin: 40px;
+    width: auto;
+}
+#lista{
+    text-align: right;
+    padding-left: 30px;
+}
+
+input{
+    border-radius: 20px;
+    padding: 10px;
+    width: 100%;
+    size: 20px;
+    margin:  20px 0 20px 0;
+}
